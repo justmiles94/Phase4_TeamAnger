@@ -1,0 +1,22 @@
+.mainMenuContainer
+{
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    color: mediumblue;
+    font-size: 75px;
+    position: relative;
+}
+
+h4 {
+    color: mediumblue;
+    font-size: 45px;
+    position: relative;
+}
+input {
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+}

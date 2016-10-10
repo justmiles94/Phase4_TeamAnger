@@ -1,0 +1,21 @@
+.mainMenuContainer {
+    position: relative;
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+    color: darkblue;
+    font-family: "Calibri Light";
+}
+
+.h1 {
+    text-align: center;
+    color: darkblue;
+    font-family: "Calibri Light";
+}
+
+.mainBtnContainer {
+    text-align: center;
+    margin: 0 auto;
+}
