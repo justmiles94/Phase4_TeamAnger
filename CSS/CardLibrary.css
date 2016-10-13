@@ -1,5 +1,12 @@
+h1 {
+    background-color: aliceblue;
+}
 .container {
     position: relative;
     text-align: center;
+}
+
+body {
+    background-color: #333333;
 }
 
