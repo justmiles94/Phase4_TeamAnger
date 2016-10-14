@@ -7,12 +7,17 @@ h1 {
     text-align: center;
 }
 
+#starTrekImage {
+    height: 60px;
+    width: 300px;
+}
+
 body {
     background-color: #333333;
 }
 
 ul {
-    background-color: #dddddd;
+    background-color: #333333;
     position: fixed;
     top: 0;
     width: 100%;
@@ -24,14 +29,14 @@ li {
 }
 
 #libraryBanner {
-    float: left;S
+    float: left;
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 21px 16px;
     text-decoration: none;
 }
 
@@ -40,3 +45,6 @@ li a:hover {
     background-color: #111;
 }
 
+#sortBy {
+    background-color: #111;
+}
