@@ -1,0 +1,50 @@
+h1 {
+    background-color: aliceblue;
+    height: 25%;
+}
+.container {
+
+    text-align: center;
+}
+
+#starTrekImage {
+    height: 60px;
+    width: 300px;
+}
+
+body {
+    background-color: #333333;
+}
+
+ul {
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+li {
+    display: inline;
+    float: right;
+}
+
+#libraryBanner {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#sortBy {
+    background-color: #111;
+}
