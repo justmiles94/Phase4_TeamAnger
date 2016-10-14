@@ -1,0 +1,56 @@
+#starTrekImage {
+    height: 60px;
+    width: 300px;
+}
+
+body {
+    background-color: #333333;
+}
+
+ul {
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+li {
+    display: inline;
+    float: right;
+}
+
+#libraryBanner {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+}
+
+#progess {
+    background-color: #111;
+}
+
+#leftSpace {
+    margin-right: 100px;
+}
+
+#leftSide {
+    alignment: left;
+    margin-left: 200px;
+    color: darkgray;
+    height: 75%;
+    width: 45%;
+}
+
+#rightSide {
+    alignment: right;
+    margin-right: 200px;
+    color: darkgray;
+    height: 75%;
+    width: 45%;
+}
