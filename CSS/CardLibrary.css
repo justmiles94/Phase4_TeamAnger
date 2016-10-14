@@ -1,12 +1,42 @@
 h1 {
     background-color: aliceblue;
+    height: 25%;
 }
 .container {
-    position: relative;
+
     text-align: center;
 }
 
 body {
     background-color: #333333;
+}
+
+ul {
+    background-color: #dddddd;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+li {
+    display: inline;
+    float: right;
+}
+
+#libraryBanner {
+    float: left;S
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
 }
 
