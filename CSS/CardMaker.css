@@ -3,9 +3,6 @@
     width: 300px;
 }
 
-body {
-    background-color: #333333;
-}
 
 ul {
     background-color: #333333;
@@ -39,12 +36,24 @@ li a {
     margin-right: 100px;
 }
 
+.container {
+    position: fixed;
+    display:inline-block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    alignment: center;
+    background-color: 	rgba(117, 117, 117, 0.8);
+    width: 90%;
+    height: 80%;
+}
+
 #leftSide {
     alignment: left;
     margin-left: 200px;
-    color: darkgray;
-    height: 75%;
-    width: 45%;
+    margin-top: 30px;
 }
 
 #rightSide {
