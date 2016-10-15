@@ -28,6 +28,10 @@ li a {
     text-decoration: none;
 }
 
+#currentStep {
+    background-color: goldenrod;
+}
+
 #progess {
     background-color: #111;
 }
@@ -67,6 +71,25 @@ li a {
     width: 45%;
 }
 
+table {
+    text-align: center;
+    float: none;
+    position: fixed;
+}
+
  tr td {
     padding: 10px;
+     margin-left: 10px;
 }
+
+ #starfleetLogo {
+     alignment: center;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-bottom: 100px;
+     margin-left: 130px;
+ }
+
+ #signature {
+     font-style: italic;
+ }
