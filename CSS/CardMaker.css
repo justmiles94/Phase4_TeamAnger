@@ -44,22 +44,29 @@ li a {
     left: 0;
     right: 0;
     margin: auto;
-    alignment: center;
+    float: left;
     background-color: 	rgba(117, 117, 117, 0.8);
-    width: 90%;
+    width: 80%;
     height: 80%;
 }
 
 #leftSide {
-    alignment: left;
-    margin-left: 200px;
     margin-top: 30px;
+    margin-left: 150px;
+    float: left;
+    background-color: darkgray;
+    height: 92%;
+    width: 40%;;
 }
 
 #rightSide {
-    alignment: right;
-    margin-right: 200px;
+    padding-top: 30px;
+    float: right;
     color: darkgray;
     height: 75%;
     width: 45%;
+}
+
+ tr td {
+    padding: 10px;
 }
