@@ -1,0 +1,95 @@
+#starTrekImage {
+    height: 60px;
+    width: 300px;
+}
+
+
+ul {
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+li {
+    display: inline;
+    float: right;
+}
+
+#libraryBanner {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+}
+
+#currentStep {
+    background-color: goldenrod;
+}
+
+#progess {
+    background-color: #111;
+}
+
+#leftSpace {
+    margin-right: 100px;
+}
+
+.container {
+    position: fixed;
+    display:inline-block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    float: left;
+    background-color: 	rgba(117, 117, 117, 0.8);
+    width: 80%;
+    height: 80%;
+}
+
+#leftSide {
+    margin-top: 30px;
+    margin-left: 150px;
+    float: left;
+    background-color: darkgray;
+    height: 92%;
+    width: 40%;;
+}
+
+#rightSide {
+    padding-top: 30px;
+    float: right;
+    color: darkgray;
+    height: 75%;
+    width: 45%;
+}
+
+table {
+    text-align: center;
+    float: none;
+    position: fixed;
+}
+
+ tr td {
+    padding: 10px;
+     margin-left: 10px;
+}
+
+ #starfleetLogo {
+     alignment: center;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-bottom: 100px;
+     margin-left: 130px;
+ }
+
+ #signature {
+     font-style: italic;
+ }
