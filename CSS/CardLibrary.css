@@ -20,7 +20,7 @@ ul {
     background-color: #333333;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 97%;
 
 }
 li {
@@ -46,5 +46,10 @@ li a:hover {
 }
 
 #sortBy {
-    background-color: #111;
+    background-color: #333333;
+    font-weight: bold;
+}
+
+#sortBy:hover {
+    backgroud-color: #333333;
 }
